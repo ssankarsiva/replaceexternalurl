@@ -1,0 +1,5 @@
+name = Replace external url
+description  = Find external url in content and add redirect url for external url. When node view replace external url with redirect url.
+core = 7.x
+package = custom modules
+dependencies[] = redirect

@@ -1,0 +1,4 @@
+<?php
+function replaceexternalurl_uninstall(){
+variable_delete('replaceexternalurl_type');
+}
